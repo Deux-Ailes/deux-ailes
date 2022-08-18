@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://geode-panama-68d.notion.site/Elliot-Clerice-3325191c9ff64243a2c2a7a4c4d13d2f](https://geode-panama-68d.notion.site/Elliot-Clerice-3325191c9ff64243a2c2a7a4c4d13d2f)
 
-- ⚡ Fun fact **I'm talking as fast as 80% Eminem Rap God's song**
+- ⚡ Fun fact **I'm talking as fast as 80% delivery speech of Eminem Rap God's song**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
