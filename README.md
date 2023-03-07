@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elliot Clerice</h1>
 <h3 align="center">A grown up passionated about software development</h3>
-
+[![wakatime](https://wakatime.com/badge/user/4c9d26de-3253-4662-a427-ee7465aa0361.svg)](https://wakatime.com/@4c9d26de-3253-4662-a427-ee7465aa0361)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deux-ailes&label=Profile%20views&color=0e75b6&style=flat" alt="deux-ailes" /> </p>
 
 - 🔭 I’m currently working on **RRCX**
