@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elliot Clerice</h1>
 <h3 align="center">A grown up passionated about software development</h3>
-[![wakatime](https://wakatime.com/badge/user/4c9d26de-3253-4662-a427-ee7465aa0361.svg)](https://wakatime.com/@4c9d26de-3253-4662-a427-ee7465aa0361)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deux-ailes&label=Profile%20views&color=0e75b6&style=flat" alt="deux-ailes" /> </p>
 
 - 🔭 I’m currently working on **RRCX**
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Software development, conception and tests**
 
-- 📄 Know about my experiences [https://geode-panama-68d.notion.site/Elliot-Clerice-3325191c9ff64243a2c2a7a4c4d13d2f](https://geode-panama-68d.notion.site/Elliot-Clerice-3325191c9ff64243a2c2a7a4c4d13d2f)
+- 📄 Know about my experiences [elliot-clerice.fr](https://elliot-clerice.fr)
 
 - ⚡ Fun fact **I'm talking as fast as 80% delivery speech of Eminem Rap God's song**
 
